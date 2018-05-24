@@ -2,55 +2,55 @@ tagline: สร้างแอปที่ใช้งานข้ามแพ�
 nav:
   apps: แอป
   blog: บล็อก
-  code_of_conduct: Code of Conduct
+  code_of_conduct: จรรยาบรรณ
   community: ชุมชน
   contact: ติดต่อ
   docs: เอกสาร
-  donors: Donors
+  donors: ผู้บริจาค
   languages: ภาษา
   releases: การเผยแพร่
   search: ค้นหา
   userland: Userland
 docs:
   title: เอกสารประกอบของ อิเล็กตรอน
-  description: ดูเพิ่มเติมใน<a href="/docs/all">เอกสารทั้งหมด</a> หรือ <a href="/docs/faq"></a> FAQ
+  description: ดูเพิ่มเติมใน<a href="/docs/all">เอกสารทั้งหมด</a> หรือ <a href="/docs/faq"></a> คำถามที่พบบ่อย
   guides: คู่มือ
   api_reference: API อ้างอิง
   advanced: ขั้นสูง
   footer:
     propose_change: ปรับปรุงเอกสารนี้
-    version_history: Version history
-    translate: Translate this doc
-    view_all_docs: All Docs on One Page
+    version_history: ประวัติการปรับปรุง
+    translate: แปลเอกสารนี้
+    view_all_docs: เอกสารทั้งหมดในหน้าเดียว
 languages:
   choose_language: เลือกภาษาของเว็บไซต์
   translation_progress: ความคืบหน้าการแปลภาษา
   current: ที่เลือกใช้ภาษาอยู่ตอนนี้
 community:
   title: ชุมชนอิเล็กตรอน
-  description: Resources for connecting with people working on Electron.
+  description: แหล่งข้อมูลการติดต่อกับผู้คนที่ใช้งาน Electron
   channels:
-    get_started: "<a href='/docs/tutorial/first-app'><b>Get started</b></a> building an app by reading the <a href='/docs/tutorial/first-app'>quick-start guide</a>."
-    updates: "<a href='https://twitter.com/electronjs'><b>Stay up to date</b></a> by following <a href='https://twitter.com/electronjs'>@electronjs</a> on Twitter and subscribing to the <a href='/blog'>blog feed</a>."
-    localized_docs: "<a href='/languages'><b>Read docs in your native language</b></a> by visiting the <a href='/languages'>languages page</a>."
-    help: "<a href='http://atom-slack.herokuapp.com'><b>Get help and feedback</b></a> by joining the <a href='http://atom-slack.herokuapp.com'>atomio Slack</a>, posting on <a href='https://discuss.atom.io/c/electron'>Discuss</a>, or visiting <a href='https://stackoverflow.com/questions/tagged/electron'>Stack Overflow</a>."
-    packages: "<a href='/search/npmPackages'><b>Find useful npm packages</b></a> on the <a href='/search/npmPackages'>package search page</a>."
-    bugs: "<a href='https://github.com/electron/electron/issues'><b>Report bugs</b></a> by opening issues on the <a href='https://github.com/electron/electron/issues'>electron/electron</a> repository."
-    feature_requests: "<a href='https://github.com/electron/electron/issues'><b>Request features</b></a> by opening issues on the <a href='https://github.com/electron/electron/issues'>electron/electron</a> repository."
-    code_of_conduct: "<a href='mailto:coc@electronjs.org'><b>Report Code of Conduct violations</b></a> by emailing <a href='mailto:coc@electronjs.org'>coc@electronjs.org</a>."
-    security: "<a href='mailto:security@electronjs.org'><b>Disclose security issues</b></a> by emailing <a href='mailto:security@electronjs.org'>security@electronjs.org</a>."
-    donations: "<a href='donors'><b>Donate</b></a> on our <a href='/donors'>OpenCollective page</a>."
-    other: "For all other inquiries, email <a href='mailto:info@electronjs.org'>info@electronjs.org</a>."
+    get_started: "<a href='/docs/tutorial/first-app'><b>เริ่มต้น</b></a> สร้างแอปด้วยการอ่าน <a href='/docs/tutorial/first-app'>แนวทางการใช้งานคราวๆ</a>"
+    updates: "<a href='https://twitter.com/electronjs'><b>ทันข่าวอยู่เสมอ</b></a> ด้วยการกดติดตาม <a href='https://twitter.com/electronjs'>@electronjs</a> บน Twitter และสมัครสมาชิก to the <a href='/blog'>บล็อก</a>."
+    localized_docs: "<a href='/languages'><b>อ่านเอกสารในภาษาของคุณ</b></a> ด้วยการเข้าชม <a href='/languages'>หน้าภาษาอื่นๆ</a>."
+    help: "<a href='http://atom-slack.herokuapp.com'><b>ขอความช่วยเหลือและการตอบกลับ</b></a> ด้วยการเข้าร่วม <a href='http://atom-slack.herokuapp.com'>atomio Slack</a>, สร้างกระทู้บน <a href='https://discuss.atom.io/c/electron'>ถาม-ตอบ</a> หรือเข้าไปดูที่ <a href='https://stackoverflow.com/questions/tagged/electron'>Stack Overflow</a>."
+    packages: "<a href='/search/npmPackages'><b>ค้นหา npm package ดีๆ</b></a> ที่<a href='/search/npmPackages'>หน้าค้นหาแพคเกจ</a>."
+    bugs: "<a href='https://github.com/electron/electron/issues'><b>รายงานข้อผิดพลาด</b></a> ด้วยการเปิด issue ใหม่บน <a href='https://github.com/electron/electron/issues'>electron/electron</a>"
+    feature_requests: "<a href='https://github.com/electron/electron/issues'><b>ร้องขอความสามารถเพิ่มเติม</b></a> ด้วยการเปิด issue ใหม่บน <a href='https://github.com/electron/electron/issues'>electron/electron</a>"
+    code_of_conduct: "<a href='mailto:coc@electronjs.org'><b>รายงานเกี่ยวกับการละเมิดจรรยาบรรณ</b></a> ด้วยการส่งอีเมลมายัง <a href='mailto:coc@electronjs.org'>coc@electronjs.org</a>."
+    security: "<a href='mailto:security@electronjs.org'><b>ระบุปัญหาเกี่ยวกับความปลอดภัย</b></a>ด้วยการส่งอีเมลมายัง<a href='mailto:security@electronjs.org'>security@electronjs.org</a>."
+    donations: "<a href='donors'><b>บริจาค</b></a> ที่ <a href='/donors'>หน้า OpenCollective</a> ของเรา"
+    other: "สำหรับการการติดต่ออื่นๆ เมล <a href='mailto:info@electronjs.org'>info@electronjs.org</a>."
   language_communities:
-    title: Language Communities
-    description: "The Electron community spans the globe, and English is not everyone's first language. Find <a href='/languages'>documentation in your language</a>, or join one of the language communities below:"
+    title: คณะกรรมการภาษา
+    description: "ชุมชน Electron นั้นขยายไปทั่วโลก, ภาษาอังกฤษจึงไม่ใช่ภาษาหลักสำหรับทุกคน ค้นหา <a href='/languages'>เอกสารในภาษาของคุณ</a>, หรือเข้าร่วมคณะกรรมการด้านภาษาด้านล่าง:"
   tools: เครื่องมือ
   boilerplates: Boilerplates
   components: ส่วนประกอบ
   videos: วีดีโอ
   meetups: พบเจอได้ที่
   awesome_notice: รายชื่อพวกนี้ถูกสร้างจาก <a href="https://github.com/sindresorhus/awesome-electron"> @sindresorhus's Awesome Electron </a> repository <br> มีอะไรหาย? <a href="https://github.com/sindresorhus/awesome-electron/blob/master/contributing.md"> สร้าง pull request สิ</a>
-  meetup_notice: To add a meetup, edit <code>data/meetups.json</code> and <a href="https://github.com/electron/electronjs.org/tree/master/data/meetups.json">make a pull request</a>.
+  meetup_notice: เพิ่มการ meetup แก้ไข <code>data/meetups.json</code> และ <a href="https://github.com/electron/electronjs.org/tree/master/data/meetups.json"> สร้าง pull request</a>.
 releases: การเผยแพร่
 electron_is_easy:
   title: ง่ายกว่าที่คุณคิด
@@ -89,23 +89,23 @@ quick_start:
   dive_deeper: หรือลงลึกเข้าไปอีกและอ่าน<a href='/docs'>เอกสาร</a>
 need_help:
   title: ต้องการความช่วยเหลือ
-  description: Ask questions in the <a href='https://discuss.atom.io/c/electron'>Discuss</a> forum or our <a href='http://atom-slack.herokuapp.com/'>Slack</a> channel. Follow <a href="https://twitter.com/electronjs">@electronjs</a> on Twitter for important announcements. Need to privately reach out? Email <a href="mailto:info@electronjs.org">info@electronjs.org</a>.
+  description: ถามใน <a href='https://discuss.atom.io/c/electron'>กระทู้</a> ของเรา ช่อง <a href='http://atom-slack.herokuapp.com/'>Slack</a>. หรือติดตาม <a href="https://twitter.com/electronjs">@electronjs</a> ใน Twitter สำหรับประกาศสำคัญๆ. หรือถ้าอยากติดต่อเป็นการส่วนตัว เมลไปที <a href="mailto:info@electronjs.org">info@electronjs.org</a>.
 headings:
   languages: ภาษา
 taglines:
-  languages: Localized content from our awesome global developer community.
+  languages: เนื้อหาที่ถูกแปลไปแล้วเพื่อชุมชนนักพัฒนาที่สุดยอดของเรา
 help_translate: "ช่วยแปลภาษา"
 footer:
-  see_the_faq: See the frequently asked questions
+  see_the_faq: ดูคำถามที่พบบ่อยๆ
 apps:
   title: แอปที่สร้างขึ้นจาก Electron
-  description: Electron ช่วยให้การสร้างแอปสำหรับเดสก์ท็อปสำหรับบริษัทของคุณ หรือแนวคิดเป็นเรื่องง่าย เริ่มพัฒนาขึ้นเพื่อ <a href='https://atom.io' target='_blank'>Atom</a> จาก GitHub ซึ่ง Electronเอง ก็ได้เริ่มมีการนำมาใช้งานโดย Microsoft, Facebook, Slack และ Docker
+  description: Electron ช่วยให้การสร้างแอปสำหรับเดสก์ท็อปสำหรับบริษัทของคุณ หรือแนวคิดเป็นเรื่องง่าย เริ่มพัฒนาขึ้นเพื่อ <a href='https://atom.io' target='_blank'>Atom</a> จาก GitHub ซึ่ง Electron เอง ก็ได้เริ่มมีการนำมาใช้งานโดย Microsoft, Facebook, Slack และ Docker
   view_more: ดูแอปเพิ่ม
   submit_your_own: ส่งของคุณเอง
   something_missing: มีอะไรหายเหรอ?
   edit_this_app: แก้ไขแอปนี้
 clipboard:
-  copy: Copy
+  copy: คัดลอก
   copy_to_clipboard: คัดลอกไปยังคลิปบอร์ด
   copied: คัดลอกแล้ว
 or: หรือ
@@ -114,23 +114,23 @@ pages:
     title: อิเล็กตรอน | สร้างแอป ครอสแพลตฟอร์มเดสก์ท๊อป ด้วยภาษาอย่าง JavaScript, HTML และ CSS
     description: 'สร้างแอปที่ใช้งานข้ามแพลตฟอร์มได้ด้วย JavaScript, HTML และ CSS.'
   '/apps':
-    title: แอป อิเล็กตรอน
-    description: แอปที่สร้างโดยใช้ อิเล็กตรอน
+    title: แอป Electron
+    description: แอปที่สร้างโดยใช้ Electron
   '/docs':
     title: เอกสารประกอบ
     description: คำแนะนำ และ API เอกสารอ้างอิง สำหรับ อิเล็กตรอน รุ่นล่าสุด
   '/docs/all':
-    title: All the Electron Docs!
-    description: All of Electron's guides and API documentation on a single, searchable page.
+    title: เอกสารของ Electron ทั้งหมด!
+    description: ทุกอย่างเกี่ยวกับเอกสารประกอบ API และวิธีใช้งานของ Electron ทั้งหมดในที่ค้นหาได้ในทีเดียว
   '/docs/api':
     title: เอพีไอ
-    description: API reference documentation for the latest Electron release
+    description: เอกสาร API สำหรับอ้างอิงของ Electron รุ่นล่าสุด
   '/docs/development':
     title: การพัฒนา
     description: พัฒนา กับ อิเล็กตรอน
   '/docs/tutorial':
     title: การใช้งาน
-    description: Guides and tutorials for the latest Electron release
+    description: วิธีการ และคำแนะนำของ Electron รุ่นล่าสุด
   '/blog':
     title: บล๊อกของอิเล็กตรอน
     description: รับข่าวสารจาก ทีมงานของอิเล็กตรอน และ ชุมชน
@@ -140,7 +140,7 @@ pages:
     title: การเผยแพร่
   '/contact':
     title: ติดต่อ
-    description: ติดต่อทีมงาน อิเล็กตรอน ผ่าน Twitter, Slack, GitHub หรือ อีเมล์
+    description: ติดต่อทีมงาน อิเล็กตรอน ผ่าน Twitter, Slack, GitHub หรือ อีเมล
   '/languages':
     title: ภาษา
   '/userland':
@@ -152,11 +152,11 @@ pages:
     title: Spectron
     description: Spectron เป็นโอเพนซอร์ซเฟรมเวิร์ก ที่ใช้งานในการเขียนทดสอบแอป อิเล็กตรอนของคุณ สร้างขึ้นโดยบน ChromeDriver และ WebDriverIO
   '/donors':
-    title: Donors
+    title: ผู้บริจาค
 _404:
   page_not_found: ไม่พบหน้าที่ต้องการ
 search:
-  description_all: Find Electron resources from <a href="/search/docs">documentation</a>, <a href="/search/npmPackages">npm packages</a>, and <a href="/search/repos">GitHub repos</a>.
-  description_docs: Find Electron resources from documentation.
-  description_npm: Find Electron resources from npm packages.
-  description_repos: Find Electron resources from GitHub repos.
+  description_all: หาข้อมูลเกี่ยวกับ Electron ได้จาก <a href="/search/docs">เอกสาร</a>, <a href="/search/npmPackages">npm packages</a>, และ <a href="/search/repos">GitHub repos</a>.
+  description_docs: หาข้อมูลเกี่ยวกับ Electron ได้จากเอกสาร
+  description_npm: หาข้อมูลเกี่ยวกับ Electron ได้จากเอกสาร npm packages.
+  description_repos: หาข้อมูลเกี่ยวกับ Electron ได้จากเอกสาร GitHub repos.
